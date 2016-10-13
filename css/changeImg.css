@@ -1,0 +1,29 @@
+ul,li{list-style:none;margin:0;padding:0}
+.DB_tab25 {background:#242A2C;width:100%;height:630px;position:relative;overflow:hidden;cursor:pointer;}
+.DB_tab25 .DB_bgSet{position:relative;}
+.DB_tab25 .DB_bgSet li{position:absolute;width:100%;height:340px;display:none;}
+.DB_tab25 .DB_imgSet{position:absolute;width:988px;left:60%;margin-left:-500px;}
+.DB_tab25 .DB_imgSet .DB_1_1{position:absolute;left:-50px;top:80px;}
+.DB_tab25 .DB_menuWrap{position:absolute;width:988px;top:150px;left:50%;margin-left:-500px;}
+.DB_tab25 .DB_prev{position:absolute;left:0px;top:140px;cursor:pointer;display:none}
+.DB_tab25 .DB_next{position:absolute;right:0px;top:140px;cursor:pointer;display:none}
+.DB_tab26 {border-bottom:10px solid #242A2C;background:#CA4D4D;width:100%;height:320px;position:relative;overflow:hidden;cursor:pointer;}
+.DB_tab26 .DB_bgSet{position:relative;}
+.DB_tab26 .DB_bgSet li{width:20px;height:20px;position:absolute;width:100%;height:340px;display:none;}
+.DB_tab26 .DB_imgSet{position:absolute;width:988px;left:60%;margin-left:-500px;}
+.DB_tab26 .DB_imgSet .DB_1_2{line-height:40px;font-family:'Lucida Grande';width:1040px;height:100px;color:white;font-style:italic;text-align:center;font-size:24px;position:absolute;left:-150px;top:80px;}
+.DB_tab26 .DB_imgSet .DB_1_2 span{display:block;margin-top:20px;font-size:20px;font-style: normal;}
+.DB_tab26 .DB_imgSet .DB_2_1{width:25px;height:20px;position:absolute;left:-210px;top:70px;}
+.DB_tab26 .DB_imgSet .DB_2_2{width:25px;height:20px;position:absolute;left:860px;top:150px;}
+.DB_tab26 .DB_menuWrap{position:absolute;width:988px;top:240px;left:45%;}
+.DB_tab26 .DB_menuWrap .DB_menuSet li img{float:left;width:20px;height:20px;}
+.DB_tab26 .DB_prev{position:absolute;left:0px;top:140px;cursor:pointer;display:none}
+.DB_tab26 .DB_next{position:absolute;right:0px;top:140px;cursor:pointer;display:none}
+
+
+
+.container{width:1150px;height:450px;margin-left:100px; padding-top:3px;}
+.title{margin-top:40px;margin-bottom:10px;font-size: 34px;color:#CA4D4D;}
+p{font-size: 14px;}
+.swiper-slide img{width:263px;height:257px;border:2px solid #CA4D4D; }
+ /*slider*/
